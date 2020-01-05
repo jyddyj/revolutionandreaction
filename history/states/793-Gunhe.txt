@@ -1,0 +1,19 @@
+state={
+	id=793
+	name="STATE_793"
+	provinces={
+		1776 4852 7697 7743 10541 10567 12537 
+	}
+	manpower=2000000
+	buildings_max_level_factor=1.000
+	state_category = pastoral
+	history={
+		owner = RUS
+		add_core_of = RUS
+		buildings = {
+			infrastructure = 4
+
+		}
+
+	}
+}

@@ -1,0 +1,28 @@
+state={
+	id=788
+	name="STATE_788"
+	manpower = 725912
+	
+	state_category = city
+	history={
+		owner = POL
+		victory_points = {
+			3295 5
+		}
+		victory_points = {
+			279 1
+		}
+		buildings = {
+			infrastructure = 6
+			arms_factory = 2
+			industrial_complex = 1
+			dockyard = 1
+			air_base = 3
+		}
+		add_core_of = POL
+	}
+
+	provinces={
+		243 279 3295 6347
+	}
+}

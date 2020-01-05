@@ -1,0 +1,339 @@
+ideologies = {
+	
+	communism = {
+		
+		types = {
+		
+			communism_ideology = {
+			}
+		}
+		
+		dynamic_faction_names = {
+			"FACTION_NAME_COMMUNIST_1"
+			"FACTION_NAME_COMMUNIST_2"
+			"FACTION_NAME_COMMUNIST_3"
+			"FACTION_NAME_COMMUNIST_4"
+			"FACTION_NAME_COMMUNIST_5"
+		}
+		
+		color = { 137 24 24 }
+		
+		war_impact_on_world_tension = 0.75		#Commie less threatening
+		faction_impact_on_world_tension = 0.5
+		
+		ai_communist = yes # uses the commie AI behaviour
+		
+		rules = {
+			
+		}
+		
+		modifiers = {
+			
+		}
+		
+		faction_modifiers = {
+			
+		}
+
+	}
+	
+	socialism = {
+		
+		types = {
+		
+			socialism_ideology = {
+			}
+		}
+		
+		dynamic_faction_names = {
+			"FACTION_NAME_SOCIALIST_1"
+			"FACTION_NAME_SOCIALIST_2"
+			"FACTION_NAME_SOCIALIST_3"
+			"FACTION_NAME_SOCIALIST_4"
+			"FACTION_NAME_SOCIALIST_5"
+		}
+		
+		color = { 240 79 79 }
+		
+		war_impact_on_world_tension = 0.75		#Commie less threatening
+		faction_impact_on_world_tension = 0.5
+		
+		ai_communist = yes # uses the commie AI behaviour
+		
+		rules = {
+			
+		}
+		
+		modifiers = {
+			
+		}
+		
+		faction_modifiers = {
+			
+		}
+
+	}
+	
+	social_democracy = {
+		
+		types = {
+		
+			social_democracy_ideology = {
+			}
+		}
+		
+		dynamic_faction_names = {
+			"FACTION_NAME_SOCIAL_DEMOCRACY_1"
+			"FACTION_NAME_SOCIAL_DEMOCRACY_2"
+			"FACTION_NAME_SOCIAL_DEMOCRACY_3"
+			"FACTION_NAME_SOCIAL_DEMOCRACY_4"
+			"FACTION_NAME_SOCIAL_DEMOCRACY_5"
+		}
+		
+		color = { 165 16 70 }
+		
+		war_impact_on_world_tension = 0.75		#Commie less threatening
+		faction_impact_on_world_tension = 0.5
+		
+		ai_communist = yes # uses the commie AI behaviour
+		
+		rules = {
+			
+		}
+		
+		modifiers = {
+			
+		}
+		
+		faction_modifiers = {
+			
+		}
+
+	}
+	
+	social_liberalism = {
+		
+		types = {
+		
+			social_liberalism_ideology = {
+			}
+		}
+		
+		dynamic_faction_names = {
+			"FACTION_NAME_SOCIAL_LIBERALISM_1"
+			"FACTION_NAME_SOCIAL_LIBERALISM_2"
+			"FACTION_NAME_SOCIAL_LIBERALISM_3"
+			"FACTION_NAME_SOCIAL_LIBERALISM_4"
+			"FACTION_NAME_SOCIAL_LIBERALISM_5"
+		}
+		
+		color = { 255 200 46 }
+		
+		war_impact_on_world_tension = 0.75		#Commie less threatening
+		faction_impact_on_world_tension = 0.5
+		
+		ai_communist = yes # uses the commie AI behaviour
+		
+		rules = {
+			
+		}
+		
+		modifiers = {
+			
+		}
+		
+		faction_modifiers = {
+			
+		}
+
+	}
+	
+	democratic = {
+	
+		types = {
+			
+			democratic_ideology = {
+			}
+		}
+		
+		dynamic_faction_names = {
+			"FACTION_NAME_DEMOCRATIC_1"
+			"FACTION_NAME_DEMOCRATIC_2"
+			"FACTION_NAME_DEMOCRATIC_3"
+			"FACTION_NAME_DEMOCRATIC_4"
+			"FACTION_NAME_DEMOCRATIC_5"
+			"FACTION_NAME_DEMOCRATIC_6"
+		}
+		
+		color = { 247 247 0 }
+		
+		rules = {
+			
+		}
+		
+		can_host_government_in_exile = yes
+		
+		war_impact_on_world_tension = 0.25		# no major danger, remember this this the 40s!
+		faction_impact_on_world_tension = 0.1
+		
+		modifiers = {
+			
+		}
+		
+		faction_modifiers = {
+			
+		}
+		ai_democratic = yes # uses the democratic AI behaviour
+	}
+	
+	conservatism = {
+	
+		types = {
+			
+			conservatism_ideology = {
+			}
+		}
+		
+		dynamic_faction_names = {
+			"FACTION_NAME_CONSERVATISM_1"
+			"FACTION_NAME_CONSERVATISM_2"
+			"FACTION_NAME_CONSERVATISM_3"
+			"FACTION_NAME_CONSERVATISM_4"
+			"FACTION_NAME_CONSERVATISM_5"
+			"FACTION_NAME_CONSERVATISM_6"
+		}
+		
+		color = { 28 104 204 }
+		
+		rules = {
+			
+		}
+		
+		can_host_government_in_exile = yes
+		
+		war_impact_on_world_tension = 0.25		# no major danger, remember this this the 40s!
+		faction_impact_on_world_tension = 0.1
+		
+		modifiers = {
+			
+		}
+		
+		faction_modifiers = {
+			
+		}
+		ai_democratic = yes # uses the democratic AI behaviour
+	}
+	
+	neutrality = {
+	
+		types = {
+		
+			neutrality_ideology  = {
+			}
+		}
+
+		dynamic_faction_names = {
+			"FACTION_NAME_NEUTRALITY_1"
+			"FACTION_NAME_NEUTRALITY_2"
+			"FACTION_NAME_NEUTRALITY_3"
+			"FACTION_NAME_NEUTRALITY_4"
+			"FACTION_NAME_NEUTRALITY_5"
+		}
+		
+		color = { 183 183 183 }
+		
+		
+		war_impact_on_world_tension = 0.25		#no major danger
+		faction_impact_on_world_tension = 0.1
+		
+		rules = {
+			
+		}
+		
+		modifiers = {
+			
+		}
+		
+		faction_modifiers = {
+		}
+
+		can_be_boosted = no
+		can_collaborate = yes
+
+		ai_neutral = yes # 
+	}
+	
+	paternalism = {
+	
+		types = {
+		
+			paternalism_desc  = {
+			}
+		}
+
+		dynamic_faction_names = {
+			"FACTION_NAME_PATERNALISM_1"
+			"FACTION_NAME_PATERNALISM_2"
+			"FACTION_NAME_PATERNALISM_3"
+			"FACTION_NAME_PATERNALISM_4"
+			"FACTION_NAME_PATERNALISM_5"
+		}
+		
+		color = { 53 53 53 }
+		
+		
+		war_impact_on_world_tension = 0.25		#no major danger
+		faction_impact_on_world_tension = 0.1
+		
+		rules = {
+			
+		}
+		
+		modifiers = {
+			
+		}
+		
+		faction_modifiers = {
+		}
+
+		can_be_boosted = no
+		can_collaborate = yes
+
+		ai_neutral = yes # 
+	}
+
+	fascism = {
+	
+		types = {
+		
+			fascism_ideology = {
+			}
+		}
+		
+		dynamic_faction_names = {
+			"FACTION_NAME_FASCIST_1"
+			"FACTION_NAME_FASCIST_2"
+			"FACTION_NAME_FASCIST_3"
+			"FACTION_NAME_FASCIST_4"
+			"FACTION_NAME_FASCIST_5"
+		}
+		
+		color = { 150 75 0 }
+		
+		war_impact_on_world_tension = 1.0			#evil!
+		faction_impact_on_world_tension = 1.0
+		
+		rules = {
+			can_force_government = no
+			can_send_volunteers = yes
+			can_puppet = yes
+		}
+		
+		modifiers = {
+			justify_war_goal_when_in_major_war_time = -0.80
+		}
+
+		ai_fascist = yes # uses the fascist AI behaviour
+	}
+	
+}

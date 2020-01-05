@@ -1,0 +1,21 @@
+state={
+	id=792
+	name="STATE_792"
+
+	history={
+		owner = MAN
+		add_core_of = MAN
+		buildings = {
+			infrastructure = 4
+
+		}
+
+	}
+
+	provinces={
+		7582 4506 12485 4876 1502 7894
+	}
+	manpower=869218
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

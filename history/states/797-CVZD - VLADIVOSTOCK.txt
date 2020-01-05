@@ -1,0 +1,22 @@
+state={
+	id=797
+	name="STATE_797"
+	
+	state_category = pastoral
+
+	history={
+		owner = RUS
+		add_core_of = RUS
+		buildings = {
+			infrastructure = 7
+
+		}
+
+	}
+
+	provinces={
+		13220 13219 13218
+	}
+	manpower=88251
+	buildings_max_level_factor=1.000
+}

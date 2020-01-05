@@ -1,0 +1,44 @@
+bookmarks = {
+	bookmark = {
+		name = "FABRICANDO_FABRICAMUR_NAME"
+		desc = "FABRICANDO_FABRICAMUR_DESC"
+		date = 1936.1.1.12
+		picture = "GFX_select_date_1936"
+		default_country = "FRA"
+		default = yes
+		
+		"FRA"={
+			history = "FRA_FABRICANDO_FABRICAMUR_DESC"
+			ideology = democratic
+			ideas = {
+				
+			}
+			focuses = {
+				
+			}
+		}
+	
+		"---"={
+			history = "OTHER_FABRICANDO_FABRICAMUR_DESC"
+		}
+
+
+		# minors from DLC ####
+		"POL"={
+			minor = yes
+			history = "POL_FABRICANDO_FABRICAMUR_DESC"
+			ideology = neutrality
+			ideas = {
+				
+			}
+			focuses = {
+				
+			}
+		}
+		
+		effect = {
+			randomize_weather = 22345 # <- Obligatory in every bookmark !
+			#123 = { rain_light = yes }
+		}
+	}
+}

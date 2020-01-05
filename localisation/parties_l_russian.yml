@@ -1,0 +1,77 @@
+﻿l_russian:
+ ############################################################ИДЕОЛОГИИ#############################################################
+ #Авторитарный социализм
+ communism:0 "Авторитарный социализм"
+ communism_noun:0 "Авторитарный социализм"
+ communism_desc:0 "Социалистический режим"
+ communism_ideology:0 "Авторитарный социализм"
+ communism_ideology_desc:0 "Потом."
+ #Либертарный социализм 
+ socialism:0 "Либертарный социализм"
+ socialism_noun:0 "Либертарный социализм"
+ socialism_desc:0 "Социалистический режим"
+ socialism_ideology:0 "Либертарный социализм"
+ socialism_ideology_desc:0 "Потом."
+ #Социал-демократия
+ social_democracy:0 "Социал-демократия"
+ social_democracy_noun:0 "Социал-демократия"
+ social_democracy_desc:0 "Демократический режим"
+ social_democracy_ideology:0 "Социал-демократия"
+ social_democracy_ideology_desc:0 "Основная цель социал-демократии состоит в том, чтобы реформировать капитализм и гуманизировать его, совместив его с этическими идеалами социального обеспечения, поддерживая капиталистический способ производства, а не создавая альтернативную социалистическую экономическую систему. Обычно продвигают плутократическую форму правления и жестко регулируемую рыночную экономику."
+ #Социал-либерализм
+ social_liberalism:0 "Социал-либерализм"
+ social_liberalism_noun:0 "Социал-либерализм"
+ social_liberalism_desc:0 "Демократический режим"
+ social_liberalism_ideology:0 "Социал-либерализм"
+ social_liberalism_ideology_desc:0 "Потом."
+ #Рыночный либерализм
+ democratic:0 "Рыночный либерализм"
+ democratic_noun:0 "Рыночный либерализм"
+ democratic_desc:0 "Демократический режим"
+ democratic_ideology:0 "Рыночный либерализм"
+ democratic_ideology_desc:0 "Потом."
+ #Консерватизм
+ conservatism:0 "Консерватизм"
+ conservatism_noun:0 "Консерватизм"
+ conservatism_desc:0 "Демократический режим"
+ conservatism_ideology:0 "Консерватизм"
+ conservatism_ideology_desc:0 "Потом."
+ #Авторитаризм
+ neutrality:0 "Авторитаризм"
+ neutrality_noun:0 "Авторитаризм"
+ neutrality_desc:0 "Авторитарный режим"
+ neutrality_ideology:0 "Авторитаризм"
+ neutrality_ideology_desc:0 "Потом."
+ #Патернализм
+ paternalism:0 "Патернализм"
+ paternalism_noun:0 "Патернализм"
+ paternalism_desc:0 "Тоталитарный режим"
+ paternalism_ideology:0 "Патернализм"
+ paternalism_ideology_desc:0 "Потом."
+ #Фашизм
+ fascism:0 "Фашизм"
+ fascism_noun:0 "Фашизм"
+ fascism_desc:0 "Фашистский режим"
+ fascism_ideology:0 "Фашизм"
+ fascism_ideology_desc:0 "Потом."
+
+ #############################################################ПАРТИИ#############################################################
+ #Россия
+ RUS_conservatism_party:0 "Октябристы"
+ RUS_conservatism_party_long:0 "Союз 17 октября"
+ RUS_democratic_party:0 "Кадеты"
+ RUS_democratic_party_long:0 "Конституционно-демократическая партия"
+ RUS_social_liberalism_party:0 "Трудовики"
+ RUS_social_liberalism_party_long:0 "Трудовая группа"
+ RUS_social_democracy_party:0 "ПСР"
+ RUS_social_democracy_party_long:0 "Партия социалистов-революционеров"
+ RUS_socialism_party:0 "РСДРП(м)"
+ RUS_socialism_party_long:0 "Российская социал-демократическая рабочая партия"
+ RUS_communism_party:0 "РСДРП(б)"
+ RUS_communism_party_long:0 "Российская социал-демократическая рабочая партия (большевиков)"
+ RUS_neutrality_party:0 "РМС"
+ RUS_neutrality_party_long:0 "Русский монархический союз"
+ RUS_paternalism_party:0 "РНСМА"
+ RUS_paternalism_party_long:0 "Русский народный союз имени Михаила Архангела"
+ RUS_fascism_party:0 "ВФП"
+ RUS_fascism_party_long:0 "Всероссийская фашистская партия"
