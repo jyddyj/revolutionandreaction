@@ -309,9 +309,9 @@ add_ideas = GER_mefo_bills_1
 activate_mission = GER_mefo_bills_mission
 
 create_country_leader = {
-	name = "Adolf Hitler"
+	name = "Franz von Papen"
 	desc = "POLITICS_ADOLF_HITLER_DESC"
-	picture = "Portrait_Germany_Adolf_Hitler.dds"
+	picture = "gfx/leaders/GER/Franz_von_Papen.dds"
 	expire = "1965.1.1"
 	ideology = fascism_ideology
 	traits = {
@@ -370,14 +370,25 @@ add_namespace = {
 	name = "ger_unit_leader"
 	type = unit_leader
 }
-
+create_corps_commander = {
+	name = "Wilhelm Keitel"
+	id = 10001
+	picture = "gfx/leaders/GER/Wilhelm_Keitel.dds"
+	traits = { winter_specialist armor_officer media_personality war_hero }
+	skill = 3
+	
+	attack_skill = 3
+	defense_skill = 4
+	planning_skill = 3
+	logistics_skill = 2
+}
 create_field_marshal = {
 	name = "Gerd von Rundstedt"
 	picture = "Portrait_Germany_Gerd_von_Rundstedt.dds"
 	traits = { defensive_doctrine offensive_doctrine old_guard }
 	skill = 3
 	attack_skill = 3
-	defense_skill = 2
+	defense_skill = 4
 	planning_skill = 3
 	logistics_skill = 2
 	id = 1
